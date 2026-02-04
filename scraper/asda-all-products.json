@@ -1,0 +1,862 @@
+{
+  "chicken": [
+    {
+      "id": "product-0",
+      "name": "ASDA Tender Diced Chicken Breast 650g",
+      "price": "£4.84",
+      "pricePerUnit": "(£7.45/kg)",
+      "url": "https://www.asda.com/groceries/product/chicken-breasts/asda-tender-diced-chicken-breast-650g/7311082"
+    },
+    {
+      "id": "product-1",
+      "name": "ASDA Tender Chicken Breast Fillets 1kg",
+      "price": "£6.94",
+      "pricePerUnit": "(£6.94/kg)",
+      "url": "https://www.asda.com/groceries/product/chicken-breasts/asda-tender-chicken-breast-fillets-1kg/4778498"
+    },
+    {
+      "id": "product-2",
+      "name": "ASDA Tender Chicken Breast Mini Fillets 650g",
+      "price": "£4.84",
+      "pricePerUnit": "(£7.45/kg)",
+      "url": "https://www.asda.com/groceries/product/chicken-breasts/asda-tender-chicken-breast-mini-fillets-650g/7311078"
+    },
+    {
+      "id": "product-3",
+      "name": "ASDA Succulent Boneless Chicken Thigh Fillets 650g",
+      "price": "£5.42",
+      "pricePerUnit": "(£8.34/kg)",
+      "url": "https://www.asda.com/groceries/product/chicken-thighs-drumsticks/asda-succulent-boneless-chicken-thigh-fillets-650g/6923652"
+    },
+    {
+      "id": "product-4",
+      "name": "ASDA Chicken Thighs on the Bone 1.5kg",
+      "price": "£4.74",
+      "pricePerUnit": "(£3.16/kg)",
+      "url": "https://www.asda.com/groceries/product/frozen-breasts-portions-thighs-joints/asda-chicken-thighs-on-the-bone-1-5kg/9291974"
+    },
+    {
+      "id": "product-5",
+      "name": "ASDA Succulent Extra Tasty Large Chicken",
+      "price": "£6.22",
+      "pricePerUnit": "(£3.89/kg)",
+      "url": "https://www.asda.com/groceries/product/whole-chickens/asda-succulent-extra-tasty-large-chicken/6354395"
+    },
+    {
+      "id": "product-6",
+      "name": "ASDA Succulent Extra Tasty Small Chicken",
+      "price": "£4.94",
+      "pricePerUnit": "(£3.95/kg)",
+      "url": "https://www.asda.com/groceries/product/whole-chickens/asda-succulent-extra-tasty-small-chicken/4834631"
+    },
+    {
+      "id": "product-7",
+      "name": "ASDA Diced Chicken Breast 600g",
+      "price": "£4.20",
+      "pricePerUnit": "(£7.00/kg)",
+      "url": "https://www.asda.com/groceries/product/frozen-breasts-portions-thighs-joints/asda-diced-chicken-breast-600g/5832638"
+    },
+    {
+      "id": "product-8",
+      "name": "ASDA Chicken Breast Fillets 1kg",
+      "price": "£6.98",
+      "pricePerUnit": "(£6.98/kg)",
+      "url": "https://www.asda.com/groceries/product/frozen-breasts-portions-thighs-joints/asda-chicken-breast-fillets-1kg/2725330"
+    },
+    {
+      "id": "product-9",
+      "name": "ASDA Chicken Breast Fillets 600g",
+      "price": "£4.22",
+      "pricePerUnit": "(£7.03/kg)",
+      "url": "https://www.asda.com/groceries/product/frozen-breasts-portions-thighs-joints/asda-chicken-breast-fillets-600g/5832636"
+    },
+    {
+      "id": "product-10",
+      "name": "ASDA Chicken Drumsticks 1.5kg",
+      "price": "£4.74",
+      "pricePerUnit": "(£3.16/kg)",
+      "url": "https://www.asda.com/groceries/product/frozen-breasts-portions-thighs-joints/asda-chicken-drumsticks-1-5kg/9291282"
+    },
+    {
+      "id": "product-11",
+      "name": "Chicken Breast Fillets 1.2kg",
+      "price": "£6.00",
+      "pricePerUnit": "(£5.00/kg)",
+      "url": "https://www.asda.com/groceries/product/frozen-breasts-portions-thighs-joints/chicken-breast-fillets-1-2kg/9202723"
+    }
+  ],
+  "beef": [
+    {
+      "id": "product-0",
+      "name": "ASDA Tender Beef Stir-Fry Strips",
+      "price": "£5.12",
+      "pricePerUnit": "(£17.07/kg)",
+      "url": "https://www.asda.com/groceries/product/diced-casserole-beef/asda-tender-beef-stir-fry-strips/7697257"
+    },
+    {
+      "id": "product-1",
+      "name": "ASDA 4 Succulent Reduced Fat Beef Burgers 454g",
+      "price": "£4.41",
+      "pricePerUnit": "(£9.71/kg)",
+      "url": "https://www.asda.com/groceries/product/beef-burgers-bbq/asda-4-succulent-reduced-fat-beef-burgers-454g/6062426"
+    },
+    {
+      "id": "product-2",
+      "name": "Exceptional by ASDA 4 British Quarter Pounder Beef Burgers 454g",
+      "price": "£5.22",
+      "pricePerUnit": "(£11.50/kg)",
+      "url": "https://www.asda.com/groceries/product/beef-burgers-bbq/exceptional-by-asda-4-british-quarter-pounder-beef-burgers-454g/9119374"
+    },
+    {
+      "id": "product-3",
+      "name": "Exceptional by ASDA 2 Aberdeen Angus Beef Steak Burgers 340g",
+      "price": "£4.46",
+      "pricePerUnit": "(£13.12/kg)",
+      "url": "https://www.asda.com/groceries/product/beef-burgers-bbq/exceptional-by-asda-2-aberdeen-angus-beef-steak-burgers-340g/9119407"
+    },
+    {
+      "id": "product-4",
+      "name": "Exceptional by ASDA 12 Italian Inspired Meatballs 340g",
+      "price": "£4.72",
+      "pricePerUnit": "(£13.88/kg)",
+      "url": "https://www.asda.com/groceries/product/beef-mince-meatballs/exceptional-by-asda-12-italian-inspired-meatballs-340g/9133780"
+    },
+    {
+      "id": "product-5",
+      "name": "ASDA Finely Sliced Beef 100g",
+      "price": "£2.24",
+      "pricePerUnit": "(£22.40/kg)",
+      "url": "https://www.asda.com/groceries/product/beef-slices/asda-finely-sliced-beef-100g/1176062"
+    },
+    {
+      "id": "product-6",
+      "name": "ASDA Tender Lean Diced Beef 400g",
+      "price": "£5.22",
+      "pricePerUnit": "(£13.05/kg)",
+      "url": "https://www.asda.com/groceries/product/diced-casserole-beef/asda-tender-lean-diced-beef-400g/4493047"
+    },
+    {
+      "id": "product-7",
+      "name": "ASDA Tender Lean Diced Beef 250g",
+      "price": "£3.97",
+      "pricePerUnit": "(£15.88/kg)",
+      "url": "https://www.asda.com/groceries/product/diced-casserole-beef/asda-tender-lean-diced-beef-250g/1733905"
+    },
+    {
+      "id": "product-8",
+      "name": "ASDA Flavourful Beef Steak Mince 500g",
+      "price": "£4.74",
+      "pricePerUnit": "(£9.48/kg)",
+      "url": "https://www.asda.com/groceries/product/beef-mince-meatballs/asda-flavourful-beef-steak-mince-500g/1525219"
+    },
+    {
+      "id": "product-9",
+      "name": "ASDA Flavourful Lean Beef Steak Mince 250g",
+      "price": "£2.84",
+      "pricePerUnit": "(£11.36/kg)",
+      "url": "https://www.asda.com/groceries/product/beef-mince-meatballs/asda-flavourful-lean-beef-steak-mince-250g/3882559"
+    },
+    {
+      "id": "product-10",
+      "name": "ASDA Sliced Topside of Beef 100g",
+      "price": "£2.24",
+      "pricePerUnit": "(£2.24/100g)",
+      "url": "https://www.asda.com/groceries/product/beef-slices/asda-sliced-topside-of-beef-100g/3589591"
+    },
+    {
+      "id": "product-11",
+      "name": "ASDA Full-Flavoured 12 Beef Meatballs 340g",
+      "price": "£3.74",
+      "pricePerUnit": "(£11.00/kg)",
+      "url": "https://www.asda.com/groceries/product/beef-mince-meatballs/asda-full-flavoured-12-beef-meatballs-340g/5872232"
+    }
+  ],
+  "salmon": [
+    {
+      "id": "product-0",
+      "name": "ASDA 2 Flavoursome Salmon Fillets 260g",
+      "price": "£4.80",
+      "pricePerUnit": "(£18.46/kg)",
+      "url": "https://www.asda.com/groceries/product/smoked-salmon/asda-2-flavoursome-salmon-fillets-260g/9311950"
+    },
+    {
+      "id": "product-1",
+      "name": "ASDA 4 Flavoursome Salmon Fillets 520g",
+      "price": "actual price£7.47",
+      "pricePerUnit": "(£14.37/kg)",
+      "url": "https://www.asda.com/groceries/product/smoked-salmon/asda-4-flavoursome-salmon-fillets-520g/9302313"
+    },
+    {
+      "id": "product-2",
+      "name": "ASDA Flavoursome Half Salmon Side 500g",
+      "price": "£8.76",
+      "pricePerUnit": "(£17.52/kg)",
+      "url": "https://www.asda.com/groceries/product/salmon/asda-flavoursome-half-salmon-side-500g/5735221"
+    },
+    {
+      "id": "product-3",
+      "name": "ASDA Skin-On Boneless Wild Salmon Fillets 330g",
+      "price": "£3.68",
+      "pricePerUnit": "(£11.15/kg)",
+      "url": "https://www.asda.com/groceries/product/frozen-fish-fillets/asda-skin-on-boneless-wild-salmon-fillets-330g/9223301"
+    },
+    {
+      "id": "product-4",
+      "name": "Kiln 4 Atlantic Salmon Fillets 400g",
+      "price": "£8.00",
+      "pricePerUnit": "(£20.00/kg)",
+      "url": "https://www.asda.com/groceries/product/frozen-fish-fillets/kiln-4-atlantic-salmon-fillets-400g/9174704"
+    },
+    {
+      "id": "product-5",
+      "name": "ASDA Flavoursome Oak Smoked Salmon 100g",
+      "price": "£3.75",
+      "pricePerUnit": "(£37.50/kg)",
+      "url": "https://www.asda.com/groceries/product/smoked-salmon/asda-flavoursome-oak-smoked-salmon-100g/7743507"
+    },
+    {
+      "id": "product-6",
+      "name": "MOWI Superior Scottish Salmon Fillets 230g",
+      "price": "actual price£4.67",
+      "pricePerUnit": "(£20.30/kg)",
+      "url": "https://www.asda.com/groceries/product/salmon/mowi-superior-scottish-salmon-fillets-230g/7593162"
+    },
+    {
+      "id": "product-7",
+      "name": "ASDA Warming 2 Sweet Chilli Kiln Roasted Salmon Fillets 180g",
+      "price": "£5.02",
+      "pricePerUnit": "(£27.89/kg)",
+      "url": "https://www.asda.com/groceries/product/cooked-smoked-fillets/asda-warming-2-sweet-chilli-kiln-roasted-salmon-fillets-180g/6349272"
+    },
+    {
+      "id": "product-8",
+      "name": "Exceptional by ASDA 2 Scottish Salmon Fillets 240g",
+      "price": "£5.83",
+      "pricePerUnit": "(£24.29/kg)",
+      "url": "https://www.asda.com/groceries/product/salmon/exceptional-by-asda-2-scottish-salmon-fillets-240g/9117728"
+    },
+    {
+      "id": "product-9",
+      "name": "Exceptional by ASDA Exceptional by  Mild & Delicate Scottish Smoked Salmon 100g",
+      "price": "£4.75",
+      "pricePerUnit": "(£47.50/kg)",
+      "url": "https://www.asda.com/groceries/product/smoked-salmon/exceptional-by-asda-exceptional-by-mild-delicate-scottish-smoked-salmon-100g/9117740"
+    },
+    {
+      "id": "product-10",
+      "name": "ASDA Flavoursome Oak Smoked Salmon 200g",
+      "price": "£5.97",
+      "pricePerUnit": "(£29.85/kg)",
+      "url": "https://www.asda.com/groceries/product/smoked-salmon/asda-flavoursome-oak-smoked-salmon-200g/995547"
+    },
+    {
+      "id": "product-11",
+      "name": "ASDA Flavoursome Oak Smoked Salmon 60g",
+      "price": "£2.11",
+      "pricePerUnit": "(£35.17/kg)",
+      "url": "https://www.asda.com/groceries/product/smoked-salmon/asda-flavoursome-oak-smoked-salmon-60g/7398998"
+    }
+  ],
+  "bread": [
+    {
+      "id": "product-0",
+      "name": "Warburtons 9 Seeds & Grain Fibre Fix 500g",
+      "price": "actual price£1.40",
+      "pricePerUnit": "(28.0p/100g)",
+      "url": "https://www.asda.com/groceries/product/wholemeal-bread/warburtons-9-seeds-grain-fibre-fix-500g/9308600"
+    },
+    {
+      "id": "product-1",
+      "name": "Jason's Seeded Protein 580g",
+      "price": "£2.75",
+      "pricePerUnit": "(£4.74/kg)",
+      "url": "https://www.asda.com/groceries/product/seeded-grains-bread/jason-s-seeded-protein-580g/9310006"
+    },
+    {
+      "id": "product-2",
+      "name": "Warburtons 12 Pulses, Seeds & Grains Protein Power 500g",
+      "price": "actual price£1.40",
+      "pricePerUnit": "(28.0p/100g)",
+      "url": "https://www.asda.com/groceries/product/seeded-grains-bread/warburtons-12-pulses-seeds-grains-protein-power-500g/9324721"
+    },
+    {
+      "id": "product-3",
+      "name": "Jason's White 580g",
+      "price": "£2.13",
+      "pricePerUnit": "(36.7p/100g)",
+      "url": "https://www.asda.com/groceries/product/white-bread/jason-s-white-580g/9255732"
+    },
+    {
+      "id": "product-4",
+      "name": "Jason's No1 The Great White Sourdough 450g",
+      "price": "£2.13",
+      "pricePerUnit": "(£4.73/kg)",
+      "url": "https://www.asda.com/groceries/product/white-bread/jason-s-no1-the-great-white-sourdough-450g/9168766"
+    },
+    {
+      "id": "product-5",
+      "name": "The BAKERY at ASDA The Bakery Soft White Medium Sliced 800g",
+      "price": "£0.74",
+      "pricePerUnit": "(9.3p/100g)",
+      "url": "https://www.asda.com/groceries/product/white-bread/the-bakery-at-asda-the-bakery-soft-white-medium-sliced-800g/5718174"
+    },
+    {
+      "id": "product-6",
+      "name": "The BAKERY at ASDA Farmhouse White 800g",
+      "price": "£1.08",
+      "pricePerUnit": "(£1.35/kg)",
+      "url": "https://www.asda.com/groceries/product/white-bread/the-bakery-at-asda-farmhouse-white-800g/7427609"
+    },
+    {
+      "id": "product-7",
+      "name": "The BAKERY at ASDA The Bakery Soft White Toastie Thick Sliced 800g",
+      "price": "£0.75",
+      "pricePerUnit": "(9.4p/100g)",
+      "url": "https://www.asda.com/groceries/product/white-bread/the-bakery-at-asda-the-bakery-soft-white-toastie-thick-sliced-800g/5892371"
+    },
+    {
+      "id": "product-8",
+      "name": "The BAKERY at ASDA The Bakery Multigrain 800g",
+      "price": "£1.24",
+      "pricePerUnit": "(15.5p/100g)",
+      "url": "https://www.asda.com/groceries/product/seeded-grains-bread/the-bakery-at-asda-the-bakery-multigrain-800g/7427625"
+    },
+    {
+      "id": "product-9",
+      "name": "The BAKERY at ASDA The Bakery Wholemeal Medium Sliced 800g",
+      "price": "£0.75",
+      "pricePerUnit": "(9.4p/100g)",
+      "url": "https://www.asda.com/groceries/product/wholemeal-bread/the-bakery-at-asda-the-bakery-wholemeal-medium-sliced-800g/5718176"
+    },
+    {
+      "id": "product-10",
+      "name": "The BAKERY at ASDA The Bakery Wholemeal Toastie Thick Sliced 800g",
+      "price": "£0.75",
+      "pricePerUnit": "(9.4p/100g)",
+      "url": "https://www.asda.com/groceries/product/wholemeal-bread/the-bakery-at-asda-the-bakery-wholemeal-toastie-thick-sliced-800g/5892374"
+    },
+    {
+      "id": "product-11",
+      "name": "The BAKERY at ASDA Farmhouse Wholemeal 800g",
+      "price": "£1.08",
+      "pricePerUnit": "(13.5p/100g)",
+      "url": "https://www.asda.com/groceries/product/wholemeal-bread/the-bakery-at-asda-farmhouse-wholemeal-800g/7427611"
+    }
+  ],
+  "milk": [
+    {
+      "id": "product-0",
+      "name": "ASDA British Milk Semi Skimmed 4 Pints",
+      "price": "£1.65",
+      "pricePerUnit": "(72.6p/lt)",
+      "url": "https://www.asda.com/groceries/product/semi-skimmed-milk/asda-british-milk-semi-skimmed-4-pints/165468"
+    },
+    {
+      "id": "product-1",
+      "name": "ASDA British Milk Semi Skimmed 6 Pints",
+      "price": "£2.40",
+      "pricePerUnit": "(70.4p/lt)",
+      "url": "https://www.asda.com/groceries/product/semi-skimmed-milk/asda-british-milk-semi-skimmed-6-pints/166556"
+    },
+    {
+      "id": "product-2",
+      "name": "ASDA Whole British Milk 4 Pints",
+      "price": "£1.65",
+      "pricePerUnit": "(72.6p/lt)",
+      "url": "https://www.asda.com/groceries/product/whole-milk/asda-whole-british-milk-4-pints/165426"
+    },
+    {
+      "id": "product-3",
+      "name": "ASDA British Milk Semi Skimmed 2 Pints",
+      "price": "£1.20",
+      "pricePerUnit": "(£1.06/lt)",
+      "url": "https://www.asda.com/groceries/product/semi-skimmed-milk/asda-british-milk-semi-skimmed-2-pints/538241"
+    },
+    {
+      "id": "product-4",
+      "name": "ASDA British Milk Whole 6 Pints",
+      "price": "£2.40",
+      "pricePerUnit": "(70.4p/lt)",
+      "url": "https://www.asda.com/groceries/product/whole-milk/asda-british-milk-whole-6-pints/166460"
+    },
+    {
+      "id": "product-5",
+      "name": "Cravendale Arla  Filtered Fresh Semi Skimmed Milk 2L Fresher for Longer",
+      "price": "£2.50",
+      "pricePerUnit": "(£1.25/lt)",
+      "url": "https://www.asda.com/groceries/product/semi-skimmed-milk/cravendale-arla-filtered-fresh-semi-skimmed-milk-2l-fresher-for-longer/489747"
+    },
+    {
+      "id": "product-6",
+      "name": "ASDA British Milk Skimmed 4 Pints",
+      "price": "£1.65",
+      "pricePerUnit": "(72.7p/lt)",
+      "url": "https://www.asda.com/groceries/product/skimmed-1-fat-milk/asda-british-milk-skimmed-4-pints/165568"
+    },
+    {
+      "id": "product-7",
+      "name": "ASDA British Whole Milk 2 Pints",
+      "price": "£1.20",
+      "pricePerUnit": "(£1.06/lt)",
+      "url": "https://www.asda.com/groceries/product/whole-milk/asda-british-whole-milk-2-pints/538239"
+    },
+    {
+      "id": "product-8",
+      "name": "Cravendale Arla  Filtered Fresh Whole Milk 2L Fresher for Longer",
+      "price": "£2.50",
+      "pricePerUnit": "(£1.25/lt)",
+      "url": "https://www.asda.com/groceries/product/whole-milk/cravendale-arla-filtered-fresh-whole-milk-2l-fresher-for-longer/489743"
+    },
+    {
+      "id": "product-9",
+      "name": "ASDA Northern Irish Semi Skimmed Milk 1 Pint",
+      "price": "£0.85",
+      "pricePerUnit": "(£1.50/lt)",
+      "url": "https://www.asda.com/groceries/product/semi-skimmed-milk/asda-northern-irish-semi-skimmed-milk-1-pint/165999"
+    },
+    {
+      "id": "product-10",
+      "name": "Arla BOB Skimmed Milk 2L Tastes like Semi Skimmed",
+      "price": "£2.50",
+      "pricePerUnit": "(£1.25/lt)",
+      "url": "https://www.asda.com/groceries/product/skimmed-1-fat-milk/arla-bob-skimmed-milk-2l-tastes-like-semi-skimmed/5389916"
+    },
+    {
+      "id": "product-11",
+      "name": "ASDA British Milk Skimmed 2 Pints",
+      "price": "£1.20",
+      "pricePerUnit": "(£1.06/lt)",
+      "url": "https://www.asda.com/groceries/product/skimmed-1-fat-milk/asda-british-milk-skimmed-2-pints/538240"
+    }
+  ],
+  "eggs": [
+    {
+      "id": "product-0",
+      "name": "ASDA 12 Free Range Medium Eggs",
+      "price": "£2.85",
+      "pricePerUnit": "(23.8p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/asda-12-free-range-medium-eggs/1058519"
+    },
+    {
+      "id": "product-1",
+      "name": "JUST ESSENTIALS by ASDA 15 Eggs 805g",
+      "price": "£2.57",
+      "pricePerUnit": "(17.1p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/just-essentials-by-asda-15-eggs-805g/9256990"
+    },
+    {
+      "id": "product-2",
+      "name": "ASDA Free Range 6 Medium Eggs",
+      "price": "£1.80",
+      "pricePerUnit": "(30.0p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/asda-free-range-6-medium-eggs/166780"
+    },
+    {
+      "id": "product-3",
+      "name": "ASDA 12 Free Range Large Eggs",
+      "price": "£3.30",
+      "pricePerUnit": "(27.5p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/asda-12-free-range-large-eggs/166781"
+    },
+    {
+      "id": "product-4",
+      "name": "The Happy Egg Co Free Range Eggs 6 Large",
+      "price": "£2.62",
+      "pricePerUnit": "(43.7p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/the-happy-egg-co-free-range-eggs-6-large/2982601"
+    },
+    {
+      "id": "product-5",
+      "name": "Exceptional by ASDA 6 Free Range Golden Yolk Eggs 328g",
+      "price": "£1.97",
+      "pricePerUnit": "(32.8p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/exceptional-by-asda-6-free-range-golden-yolk-eggs-328g/9135705"
+    },
+    {
+      "id": "product-6",
+      "name": "ASDA Free Range 6 Large Eggs",
+      "price": "£2.10",
+      "pricePerUnit": "(35.0p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/asda-free-range-6-large-eggs/166779"
+    },
+    {
+      "id": "product-7",
+      "name": "Big Yolkers 10 Big Yolkers 630g",
+      "price": "£2.87",
+      "pricePerUnit": "(28.7p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/big-yolkers-10-big-yolkers-630g/7599362"
+    },
+    {
+      "id": "product-8",
+      "name": "The Lakes Free Range Egg Co Laid with Love 6 Free Range Eggs",
+      "price": "£1.58",
+      "pricePerUnit": "(26.3p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/the-lakes-free-range-egg-co-laid-with-love-6-free-range-eggs/9174494"
+    },
+    {
+      "id": "product-9",
+      "name": "The Happy Egg Co Free Range 10 Large",
+      "price": "£3.96",
+      "pricePerUnit": "(39.6p/each)",
+      "url": "https://www.asda.com/groceries/product/free-range-eggs/the-happy-egg-co-free-range-10-large/5729785"
+    },
+    {
+      "id": "product-10",
+      "name": "ASDA Organic Organic 6 Free Range Mixed Eggs 328g",
+      "price": "£2.47",
+      "pricePerUnit": "(41.2p/each)",
+      "url": "https://www.asda.com/groceries/product/organic-eggs/asda-organic-organic-6-free-range-mixed-eggs-328g/3015762"
+    },
+    {
+      "id": "product-11",
+      "name": "ASDA 12 Savoury Mini Eggs 216g",
+      "price": "£1.47",
+      "pricePerUnit": "(68.1p/100g)",
+      "url": "https://www.asda.com/groceries/product/scotch-eggs/asda-12-savoury-mini-eggs-216g/4298946"
+    }
+  ],
+  "cheese": [
+    {
+      "id": "product-0",
+      "name": "Cathedral City Extra Mature Cheddar Cheese 550g",
+      "price": "actual price£3.75",
+      "pricePerUnit": "(£6.82/kg)",
+      "url": "https://www.asda.com/groceries/product/extra-mature-vintage-cheese/cathedral-city-extra-mature-cheddar-cheese-550g/6594606"
+    },
+    {
+      "id": "product-1",
+      "name": "Cathedral City Mature Cheddar Cheese 550g",
+      "price": "actual price£3.75",
+      "pricePerUnit": "(£6.82/kg)",
+      "url": "https://www.asda.com/groceries/product/mature-cheese/cathedral-city-mature-cheddar-cheese-550g/6594608"
+    },
+    {
+      "id": "product-2",
+      "name": "Cathedral City Lighter Mature Cheddar Cheese 550g",
+      "price": "actual price£3.75",
+      "pricePerUnit": "(£6.82/kg)",
+      "url": "https://www.asda.com/groceries/product/mature-cheese/cathedral-city-lighter-mature-cheddar-cheese-550g/6594610"
+    },
+    {
+      "id": "product-3",
+      "name": "Strings & Things Cheestrings 8 x 20g (160g)",
+      "price": "actual price£2.25",
+      "pricePerUnit": "(£14.06/kg)",
+      "url": "https://www.asda.com/groceries/product/cheese-strips-dunkers/strings-things-cheestrings-8-x-20g-160g-/3884168"
+    },
+    {
+      "id": "product-4",
+      "name": "ASDA British Mature Cheddar 400g",
+      "price": "£3.00",
+      "pricePerUnit": "(£7.50/kg)",
+      "url": "https://www.asda.com/groceries/product/mature-cheese/asda-british-mature-cheddar-400g/6793868"
+    },
+    {
+      "id": "product-5",
+      "name": "ASDA British Mild Cheddar 400g",
+      "price": "£3.00",
+      "pricePerUnit": "(£7.50/kg)",
+      "url": "https://www.asda.com/groceries/product/mild-medium-cheese/asda-british-mild-cheddar-400g/6793870"
+    },
+    {
+      "id": "product-6",
+      "name": "ASDA British Extra Mature Cheddar 400g",
+      "price": "£3.00",
+      "pricePerUnit": "(£7.50/kg)",
+      "url": "https://www.asda.com/groceries/product/mature-cheese/asda-british-extra-mature-cheddar-400g/6793874"
+    },
+    {
+      "id": "product-7",
+      "name": "ASDA British Extra Mature Grated Cheddar 250g",
+      "price": "£2.54",
+      "pricePerUnit": "(£10.16/kg)",
+      "url": "https://www.asda.com/groceries/product/grated-cheese/asda-british-extra-mature-grated-cheddar-250g/7690017"
+    },
+    {
+      "id": "product-8",
+      "name": "ASDA Grated Mature British Cheddar 250g",
+      "price": "£2.54",
+      "pricePerUnit": "(£10.16/kg)",
+      "url": "https://www.asda.com/groceries/product/grated-sliced-cheese/asda-grated-mature-british-cheddar-250g/4642107"
+    },
+    {
+      "id": "product-9",
+      "name": "ASDA British Red Leicester 400g",
+      "price": "£3.00",
+      "pricePerUnit": "(£7.50/kg)",
+      "url": "https://www.asda.com/groceries/product/red-leicester-gloucester/asda-british-red-leicester-400g/6793596"
+    },
+    {
+      "id": "product-10",
+      "name": "ASDA British Medium Cheddar 400g",
+      "price": "£3.00",
+      "pricePerUnit": "(£7.50/kg)",
+      "url": "https://www.asda.com/groceries/product/mild-medium-cheese/asda-british-medium-cheddar-400g/6793872"
+    },
+    {
+      "id": "product-11",
+      "name": "Cathedral City Extra Mature Cheddar Cheese 350g",
+      "price": "£3.58",
+      "pricePerUnit": "(£10.23/kg)",
+      "url": "https://www.asda.com/groceries/product/extra-mature-vintage-cheese/cathedral-city-extra-mature-cheddar-cheese-350g/3364856"
+    }
+  ],
+  "pasta": [
+    {
+      "id": "product-0",
+      "name": "ASDA Penne 3kg",
+      "price": "£3.00",
+      "pricePerUnit": "(£1.00/kg)",
+      "url": "https://www.asda.com/groceries/product/pasta-tubes-shells-spirals/asda-penne-3kg/1168397"
+    },
+    {
+      "id": "product-1",
+      "name": "ASDA Rigatoni 500g",
+      "price": "£0.75",
+      "pricePerUnit": "(£1.50/kg)",
+      "url": "https://www.asda.com/groceries/product/pasta-tubes-shells-spirals/asda-rigatoni-500g/5528407"
+    },
+    {
+      "id": "product-2",
+      "name": "ASDA Spaghetti 500g",
+      "price": "£0.75",
+      "pricePerUnit": "(£1.50/kg)",
+      "url": "https://www.asda.com/groceries/product/spaghetti-tagliatelle/asda-spaghetti-500g/12943"
+    },
+    {
+      "id": "product-3",
+      "name": "ASDA Fusilli 500g",
+      "price": "£0.75",
+      "pricePerUnit": "(£1.50/kg)",
+      "url": "https://www.asda.com/groceries/product/pasta-tubes-shells-spirals/asda-fusilli-500g/21759"
+    },
+    {
+      "id": "product-4",
+      "name": "ASDA Conchiglie 500g",
+      "price": "£0.75",
+      "pricePerUnit": "(£1.50/kg)",
+      "url": "https://www.asda.com/groceries/product/pasta-tubes-shells-spirals/asda-conchiglie-500g/21758"
+    },
+    {
+      "id": "product-5",
+      "name": "ASDA Penne 500g",
+      "price": "£0.75",
+      "pricePerUnit": "(£1.50/kg)",
+      "url": "https://www.asda.com/groceries/product/pasta-tubes-shells-spirals/asda-penne-500g/2567932"
+    },
+    {
+      "id": "product-6",
+      "name": "ASDA Fusilli 3kg",
+      "price": "£3.80",
+      "pricePerUnit": "(£1.27/kg)",
+      "url": "https://www.asda.com/groceries/product/pasta-tubes-shells-spirals/asda-fusilli-3kg/977756"
+    },
+    {
+      "id": "product-7",
+      "name": "ASDA Farfalle 500g",
+      "price": "£0.75",
+      "pricePerUnit": "(£1.50/kg)",
+      "url": "https://www.asda.com/groceries/product/pasta-tubes-shells-spirals/asda-farfalle-500g/5528405"
+    },
+    {
+      "id": "product-8",
+      "name": "Barilla Pasta Fusilli 500g",
+      "price": "actual price£1.00",
+      "pricePerUnit": "(£2.00/kg)",
+      "url": "https://www.asda.com/groceries/product/pasta-tubes-shells-spirals/barilla-pasta-fusilli-500g/6116340"
+    },
+    {
+      "id": "product-9",
+      "name": "Barilla Pasta Linguine 500g",
+      "price": "actual price£1.00",
+      "pricePerUnit": "(£2.00/kg)",
+      "url": "https://www.asda.com/groceries/product/spaghetti-tagliatelle/barilla-pasta-linguine-500g/9207118"
+    },
+    {
+      "id": "product-10",
+      "name": "Barilla Pasta Spaghetti 500g",
+      "price": "actual price£1.00",
+      "pricePerUnit": "(£2.00/kg)",
+      "url": "https://www.asda.com/groceries/product/spaghetti-tagliatelle/barilla-pasta-spaghetti-500g/6116334"
+    },
+    {
+      "id": "product-11",
+      "name": "Barilla Pasta Collezione Lasagne 500g",
+      "price": "actual price£1.30",
+      "pricePerUnit": "(£2.60/kg)",
+      "url": "https://www.asda.com/groceries/product/lasagne-sheets-gnocchi/barilla-pasta-collezione-lasagne-500g/6123469"
+    }
+  ],
+  "rice": [
+    {
+      "id": "product-0",
+      "name": "Ben's Original Bens Original Basmati Microwave Rice 220g",
+      "price": "£1.00",
+      "pricePerUnit": "(£4.55/kg)",
+      "url": "https://www.asda.com/groceries/product/long-grain-basmati-microwave-rice/ben-s-original-bens-original-basmati-microwave-rice-220g/7548537"
+    },
+    {
+      "id": "product-1",
+      "name": "Ben's Original Bens Original Golden Vegetable Microwave Rice 220g",
+      "price": "£1.06",
+      "pricePerUnit": "(£4.82/kg)",
+      "url": "https://www.asda.com/groceries/product/flavoured-microwave-rice/ben-s-original-bens-original-golden-vegetable-microwave-rice-220g/7696145"
+    },
+    {
+      "id": "product-2",
+      "name": "ASDA Basmati White Rice 1kg",
+      "price": "£1.85",
+      "pricePerUnit": "(£1.85/kg)",
+      "url": "https://www.asda.com/groceries/product/long-grain-basmati-rice/asda-basmati-white-rice-1kg/18631"
+    },
+    {
+      "id": "product-3",
+      "name": "ASDA Easy Cook Long Grain White Rice",
+      "price": "£1.25",
+      "pricePerUnit": "(£1.25/kg)",
+      "url": "https://www.asda.com/groceries/product/long-grain-basmati-rice/asda-easy-cook-long-grain-white-rice/9132441"
+    },
+    {
+      "id": "product-4",
+      "name": "Kohinoor Gold Basmati Rice 10kg",
+      "price": "actual price£15.00",
+      "pricePerUnit": "(£1.50/kg)",
+      "url": "https://www.asda.com/groceries/product/indian-asian-rice/kohinoor-gold-basmati-rice-10kg/6124951"
+    },
+    {
+      "id": "product-5",
+      "name": "Trophy Basmati Rice 10kg",
+      "price": "£12.00",
+      "pricePerUnit": "(£1.20/kg)",
+      "url": "https://www.asda.com/groceries/product/indian-asian-rice/trophy-basmati-rice-10kg/5208591"
+    },
+    {
+      "id": "product-6",
+      "name": "ASDA Pilau Micro Rice 250g",
+      "price": "£0.57",
+      "pricePerUnit": "(£2.28/kg)",
+      "url": "https://www.asda.com/groceries/product/pilau-indian-microwavable-rice/asda-pilau-micro-rice-250g/5498617"
+    },
+    {
+      "id": "product-7",
+      "name": "ASDA Egg Fried Micro Rice 250g",
+      "price": "£0.75",
+      "pricePerUnit": "(£3.00/kg)",
+      "url": "https://www.asda.com/groceries/product/egg-fried-east-asian-microwave-rice/asda-egg-fried-micro-rice-250g/5498613"
+    },
+    {
+      "id": "product-8",
+      "name": "Salaam Basmati Rice 5kg",
+      "price": "£6.00",
+      "pricePerUnit": "(£1.20/kg)",
+      "url": "https://www.asda.com/groceries/product/indian-asian-rice/salaam-basmati-rice-5kg/3973519"
+    },
+    {
+      "id": "product-9",
+      "name": "ASDA Easy Cook Long Grain White Rice",
+      "price": "£2.40",
+      "pricePerUnit": "(£1.20/kg)",
+      "url": "https://www.asda.com/groceries/product/long-grain-basmati-rice/asda-easy-cook-long-grain-white-rice/9132444"
+    },
+    {
+      "id": "product-10",
+      "name": "Laila Basmati Rice 10kg",
+      "price": "£12.00",
+      "pricePerUnit": "(£1.20/kg)",
+      "url": "https://www.asda.com/groceries/product/indian-asian-rice/laila-basmati-rice-10kg/2304458"
+    },
+    {
+      "id": "product-11",
+      "name": "ASDA Basmati Micro Rice 250g",
+      "price": "£0.57",
+      "pricePerUnit": "(£2.28/kg)",
+      "url": "https://www.asda.com/groceries/product/long-grain-basmati-microwave-rice/asda-basmati-micro-rice-250g/5498611"
+    }
+  ],
+  "tomatoes": [
+    {
+      "id": "product-0",
+      "name": "JUST ESSENTIALS by ASDA Salad Tomatoes",
+      "price": "£0.99",
+      "pricePerUnit": "(16.5p/each)",
+      "url": "https://www.asda.com/groceries/product/tomatoes-peppers/just-essentials-by-asda-salad-tomatoes/5795224"
+    },
+    {
+      "id": "product-1",
+      "name": "ASDA Crunchy & Juicy Cherry Tomatoes 300g",
+      "price": "£0.85",
+      "pricePerUnit": "(£2.83/kg)",
+      "url": "https://www.asda.com/groceries/product/tomatoes-peppers/asda-crunchy-juicy-cherry-tomatoes-300g/9041476"
+    },
+    {
+      "id": "product-2",
+      "name": "ASDA Vine Ripened Cherry Tomatoes",
+      "price": "£1.15",
+      "pricePerUnit": "(£1.15/each)",
+      "url": "https://www.asda.com/groceries/product/tomatoes-peppers/asda-vine-ripened-cherry-tomatoes/6581120"
+    },
+    {
+      "id": "product-3",
+      "name": "Exceptional by ASDA Vine Ripened Tomatoes",
+      "price": "£2.06",
+      "pricePerUnit": "(51.5p/each)",
+      "url": "https://www.asda.com/groceries/product/tomatoes-peppers/exceptional-by-asda-vine-ripened-tomatoes/9246343"
+    },
+    {
+      "id": "product-4",
+      "name": "ASDA Sweet & Balanced Salad Tomatoes 750g",
+      "price": "£1.79",
+      "pricePerUnit": "(£2.39/kg)",
+      "url": "https://www.asda.com/groceries/product/tomatoes-peppers/asda-sweet-balanced-salad-tomatoes-750g/154285"
+    },
+    {
+      "id": "product-5",
+      "name": "ASDA Crunchy & Fragrant Vine Ripened Tomatoes",
+      "price": "£1.22",
+      "pricePerUnit": "(£1.22/each)",
+      "url": "https://www.asda.com/groceries/product/tomatoes-peppers/asda-crunchy-fragrant-vine-ripened-tomatoes/5794643"
+    },
+    {
+      "id": "product-6",
+      "name": "Exceptional by ASDA Aromatico Tomatoes 220g",
+      "price": "£1.96",
+      "pricePerUnit": "(£8.91/kg)",
+      "url": "https://www.asda.com/groceries/product/tomatoes-peppers/exceptional-by-asda-aromatico-tomatoes-220g/9246178"
+    },
+    {
+      "id": "product-7",
+      "name": "ASDA Chopped Tomatoes 400g",
+      "price": "£0.47",
+      "pricePerUnit": "(£1.18/kg)",
+      "url": "https://www.asda.com/groceries/product/tinned-tomatoes/asda-chopped-tomatoes-400g/5611428"
+    },
+    {
+      "id": "product-8",
+      "name": "ASDA Fragrant & Juicy Sweet Vine Ripened Tomatoes 250g",
+      "price": "£0.98",
+      "pricePerUnit": "(£3.92/kg)",
+      "url": "https://www.asda.com/groceries/product/tomatoes-peppers/asda-fragrant-juicy-sweet-vine-ripened-tomatoes-250g/9125676"
+    },
+    {
+      "id": "product-9",
+      "name": "Exceptional by ASDA Aromatico Tomatoes 440g",
+      "price": "£3.12",
+      "pricePerUnit": "(£7.09/kg)",
+      "url": "https://www.asda.com/groceries/product/tomatoes-peppers/exceptional-by-asda-aromatico-tomatoes-440g/9232340"
+    },
+    {
+      "id": "product-10",
+      "name": "Napolina Chopped Tomatoes in a Rich Tomato Juice 4 x 400g",
+      "price": "£2.48",
+      "pricePerUnit": "(£1.55/kg)",
+      "url": "https://www.asda.com/groceries/product/tinned-tomatoes/napolina-chopped-tomatoes-in-a-rich-tomato-juice-4-x-400g/3503331"
+    },
+    {
+      "id": "product-11",
+      "name": "Napolina Peeled Plum Tomatoes in a Rich Tomato Juice 4 x 400g",
+      "price": "£2.48",
+      "pricePerUnit": "(£1.55/kg)",
+      "url": "https://www.asda.com/groceries/product/tinned-tomatoes/napolina-peeled-plum-tomatoes-in-a-rich-tomato-juice-4-x-400g/3503333"
+    }
+  ]
+}
