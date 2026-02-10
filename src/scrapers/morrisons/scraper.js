@@ -86,7 +86,7 @@ async function scrapeCategory(productName, browser) {
   return items;
 }
 
-export async function morrisonsScraper() {
+export default async function morrisonsScraper() {
   console.log(
     `Starting Morrisons scrape (${foodCategories.length} categories)\n`,
   );

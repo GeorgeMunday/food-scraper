@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node scraper/main.js"
+    "start": "node src/server/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/GeorgeMunday/food-scraper#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "firebase-admin": "^13.6.1",
     "node-cron": "^4.2.1"
   },
   "devDependencies": {
