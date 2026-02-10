@@ -141,5 +141,3 @@ export async function morrisonsScraper() {
   console.log("Total products:", totalProducts);
   console.log("Saved to: morrisons-all-products.json");
 }
-
-morrisonsScraper();

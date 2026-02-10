@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node scraper/main.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GeorgeMunday/food-scraper.git"
@@ -16,6 +18,10 @@
     "url": "https://github.com/GeorgeMunday/food-scraper/issues"
   },
   "homepage": "https://github.com/GeorgeMunday/food-scraper#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-cron": "^4.2.1"
+  },
   "devDependencies": {
     "@playwright/test": "^1.58.1",
     "@types/node": "^25.2.0",

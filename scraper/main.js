@@ -1,9 +1,12 @@
-import { asdaScraper } from "./asda/scraper.js";
-import { morrisonsScraper } from "./morrisons/scraper.js";
+import express from "express";
+import morrisonsScraper from "./morrisons";
 
-async function main() {
-  await asdaScraper();
-  await morrisonsScraper();
-}
+const app = express();
 
-main();
+// main logic
+morrisonsScraper();
+asdaScraper();
+
+app.listen(3000, () => {
+  console.log("Server running");
+});
