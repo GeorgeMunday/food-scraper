@@ -31,8 +31,6 @@ export async function scrapeAsda() {
 
         await saveProducts("asda", category, products);
         totalProducts += products.length;
-
-        await page.waitForTimeout(2000);
       } catch (error) {
         console.error(`[ASDA] Error scraping ${category}:`, error.message);
       }
