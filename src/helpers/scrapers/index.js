@@ -1,6 +1,7 @@
-import { scrapeAsda } from "./asda.js";
-import { scrapeMorrisons } from "./morrisons.js";
-import { foodCategories } from "../constants.js";
+import { scrapeAsda } from "./asda/index.js";
+import { scrapeMorrisons } from "./morrisons/index.js";
+import { foodCategories } from "../../config/constants.js";
+import { deleteComparePrices } from "../../db/index.js";
 
 export async function scrapeAllSites() {
   console.log(
@@ -9,6 +10,8 @@ export async function scrapeAllSites() {
   console.log("=".repeat(60));
 
   const startTime = Date.now();
+
+  await deleteComparePrices();
 
   try {
     const [asdaTotal, morrisonsTotal] = await Promise.all([
@@ -32,5 +35,5 @@ export async function scrapeAllSites() {
   }
 }
 
-export { scrapeAsda } from "./asda.js";
-export { scrapeMorrisons } from "./morrisons.js";
+export { scrapeAsda } from "./asda/index.js";
+export { scrapeMorrisons } from "./morrisons/index.js";

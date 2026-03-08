@@ -11,8 +11,11 @@ export async function saveProducts(storeName, category, products) {
     const timestamp = new Date().toISOString();
 
     for (const product of products) {
-      const docId = `${storeName}_${category}_${product.id}`;
-      const docRef = db.collection("products").doc(docId);
+      const docRef = db
+        .collection("compare-prices")
+        .doc(storeName)
+        .collection(category)
+        .doc(String(product.id));
 
       batch.set(docRef, {
         ...product,

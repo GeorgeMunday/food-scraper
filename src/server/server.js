@@ -1,6 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
-import { testDatabaseConnection } from "../helpers/db.js";
+import { testDatabaseConnection } from "../db/index.js";
 import { scrapeAllSites } from "../helpers/scrapers/index.js";
 
 dotenv.config({ debug: false });
